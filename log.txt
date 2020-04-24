@@ -1,0 +1,11 @@
+wazzap
+
+@x     <---        instance variable 
+        				----->	  экземпл€ры (объекты)
+def...	 <---      instance method   
+end
+
+@@x    <---        class variable
+					-----> статический (класс)
+def self.some <--- class method
+end
